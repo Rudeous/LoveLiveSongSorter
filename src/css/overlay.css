@@ -1,0 +1,63 @@
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 10000;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 1);
+}
+
+.overlay-content {
+    position: fixed;
+    top: 15%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.overlay p {
+    padding: 8px;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    display: block;
+}
+
+.overlay .button1 {
+    border: 3px solid #525252;
+    text-align: center;
+    padding: 50px 300px 50px 300px;
+    /* grid-column: 1 / 4;
+    grid-row: 2 / 3; */
+    /* margin: 400px 500px 400px 500px; */
+    cursor: pointer;
+    border-radius: 15px;
+    font-weight: bolder;
+    box-shadow: 0px 0px 27.5px 0px rgba(82, 82, 82, 1) !important;
+}
+
+.button p {
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.grid {
+    display: grid;
+    /* grid-template-columns: repeat(4, 25%); */
+    grid-column-gap: 10px;
+    /* This will result on four columns, each one of 1fr */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* This will result on two rows, each one of 300px */
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.element {
+    /* this is the same as grid-template-columns: 1fr 1fr 1fr 1fr; */
+    grid-template-columns: repeat(4, 1fr);
+    /* this is the same as grid-template-rows: 300px 300px; */
+    grid-template-rows: repeat(2, 300px);
+}
