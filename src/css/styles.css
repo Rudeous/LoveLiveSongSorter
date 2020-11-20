@@ -43,7 +43,6 @@ body {
 
 .starting.start.button {
     grid-row: span 6;
-    display: none;
 }
 
 .starting.load.button {

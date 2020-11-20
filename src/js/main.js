@@ -182,6 +182,16 @@ function init() {
 }
 
 /** Begin sorting. */
+function selectMuse() {
+    //console.log("success");
+    document.querySelector('#overlayPage').style.visibility = 'hidden'; // hide overlay selection page
+    document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
+    characterData = dataSet[currentVersion].characterData[0];
+    // TO DO:
+    // load muse songs dataset
+    // trigger button click to proceed with sorter 
+}
+
 function start() {
     /** Copy data into sorting array to filter. */
     characterDataToSort = characterData.slice(0);
@@ -248,11 +258,12 @@ function start() {
     rightInnerIndex = 0; // to the right array, in order to merge them into one sorted array.
 
     /** Disable all checkboxes and hide/show appropriate parts while we preload the images. */
-    document.querySelector('.left.sort.image').style.visibility = 'visible';
-    document.querySelector('.right.sort.image').style.visibility = 'visible';
+    // document.querySelector('.left.sort.image').style.visibility = 'visible';
+    // document.querySelector('.right.sort.image').style.visibility = 'visible';
     document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.disabled = true);
     document.querySelectorAll('.starting.button').forEach(el => el.style.display = 'none');
     document.querySelector('.loading.button').style.display = 'block';
+    document.querySelector('.progress').style.visibility = 'visible';
     document.querySelector('.progress').style.display = 'block';
     loading = true;
 
@@ -675,7 +686,7 @@ function setLatestDataset() {
         }, 0);
     currentVersion = Object.keys(dataSet)[latestDateIndex];
 
-    characterData = dataSet[currentVersion].characterData;
+    characterData = dataSet[currentVersion].characterData[1];
     // options = dataSet[currentVersion].options;
 
 }
