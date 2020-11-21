@@ -678,771 +678,765 @@ dataSet[dataSetVersion].characterData = [
         }
     ],
     [{
-            "nameKanji": "A song for You! You You!!.mp3",
-            "name": "A song for You! You You!!.mp3",
-            "img": "",
+            "nameKanji": "A song for You! You You!!",
+            "name": "A song for You! You You!!",
+            "img": "vgtmNeu.png",
             "song": "src/songs/muse/A song for You! You You!!.mp3"
         },
         {
-            "nameKanji": "after school NAVIGATORS.mp3",
-            "name": "after school NAVIGATORS.mp3",
-            "img": "",
+            "nameKanji": "after school NAVIGATORS",
+            "name": "after school NAVIGATORS",
+            "img": "xA0PJA8.jpg",
             "song": "src/songs/muse/after school NAVIGATORS.mp3"
         },
         {
-            "nameKanji": "Anemone heart.mp3",
-            "name": "Anemone heart.mp3",
-            "img": "",
+            "nameKanji": "Anemone heart",
+            "name": "Anemone heart",
+            "img": "kQaUlpG.png",
             "song": "src/songs/muse/Anemone heart.mp3"
         },
         {
-            "nameKanji": "Angelic Angel.mp3",
-            "name": "Angelic Angel.mp3",
-            "img": "",
+            "nameKanji": "Angelic Angel",
+            "name": "Angelic Angel",
+            "img": "07fUKPw.png",
             "song": "src/songs/muse/Angelic Angel.mp3"
         },
         {
-            "nameKanji": "baby maybe 恋のボタン.mp3",
-            "name": "baby maybe 恋のボタン.mp3",
-            "img": "",
+            "nameKanji": "baby maybe 恋のボタン",
+            "name": "baby maybe Koi no Button",
+            "img": "Yi6lbgZ.jpg",
             "song": "src/songs/muse/baby maybe 恋のボタン.mp3"
         },
         {
-            "nameKanji": "Beat in Angel.mp3",
-            "name": "Beat in Angel.mp3",
-            "img": "",
+            "nameKanji": "Beat in Angel",
+            "name": "Beat in Angel",
+            "img": "hM34aFc.png",
             "song": "src/songs/muse/Beat in Angel.mp3"
         },
         {
-            "nameKanji": "CheerDay CheerGirl!.mp3",
-            "name": "CheerDay CheerGirl!.mp3",
-            "img": "",
+            "nameKanji": "CheerDay CheerGirl!",
+            "name": "CheerDay CheerGirl!",
+            "img": "GiKWdgL.png",
             "song": "src/songs/muse/CheerDay CheerGirl!.mp3"
         },
         {
-            "nameKanji": "Colorful Voice.mp3",
-            "name": "Colorful Voice.mp3",
-            "img": "",
+            "nameKanji": "Colorful Voice",
+            "name": "Colorful Voice",
+            "img": "5sZVT2l.jpg",
             "song": "src/songs/muse/Colorful Voice.mp3"
         },
         {
-            "nameKanji": "Cutie Panther.mp3",
-            "name": "Cutie Panther.mp3",
-            "img": "",
+            "nameKanji": "Cutie Panther",
+            "name": "Cutie Panther",
+            "img": "rTfKPO2.png",
             "song": "src/songs/muse/Cutie Panther.mp3"
         },
         {
-            "nameKanji": "Dancing Stars on Me!.mp3",
-            "name": "Dancing Stars on Me!.mp3",
-            "img": "",
+            "nameKanji": "Dancing Stars on Me!",
+            "name": "Dancing Stars on Me!",
+            "img": "KZVj0Oq.png",
             "song": "src/songs/muse/Dancing Stars on Me!.mp3"
         },
         {
-            "nameKanji": "Daring!!.mp3",
-            "name": "Daring!!.mp3",
-            "img": "",
+            "nameKanji": "Daring!!",
+            "name": "Daring!!",
+            "img": "YGLC42s.png",
             "song": "src/songs/muse/Daring!!.mp3"
         },
         {
-            "nameKanji": "Dreamin' Go! Go!!.mp3",
-            "name": "Dreamin' Go! Go!!.mp3",
-            "img": "",
+            "nameKanji": "Dreamin' Go! Go!!",
+            "name": "Dreamin' Go! Go!!",
+            "img": "rcatoF7.png",
             "song": "src/songs/muse/Dreamin' Go! Go!!.mp3"
         },
         {
-            "nameKanji": "ENDLESS PARADE.mp3",
-            "name": "ENDLESS PARADE.mp3",
-            "img": "",
+            "nameKanji": "ENDLESS PARADE",
+            "name": "ENDLESS PARADE",
+            "img": "QJ7gREh.png",
             "song": "src/songs/muse/ENDLESS PARADE.mp3"
         },
         {
-            "nameKanji": "Future style.mp3",
-            "name": "Future style.mp3",
-            "img": "",
+            "nameKanji": "Future style",
+            "name": "Future style",
+            "img": "Ak7WWbY.png",
             "song": "src/songs/muse/Future style.mp3"
         },
         {
-            "nameKanji": "Happy Maker!.mp3",
-            "name": "Happy Maker!.mp3",
-            "img": "",
+            "nameKanji": "Happy Maker!",
+            "name": "Happy Maker!",
+            "img": "cSzdqWa.png",
             "song": "src/songs/muse/Happy Maker!.mp3"
         },
         {
-            "nameKanji": "HEART to HEART!.mp3",
-            "name": "HEART to HEART!.mp3",
-            "img": "",
+            "nameKanji": "HEART to HEART!",
+            "name": "HEART to HEART!",
+            "img": "gn9Zppi.png",
             "song": "src/songs/muse/HEART to HEART!.mp3"
         },
         {
-            "nameKanji": "Hello,星を数えて.mp3",
-            "name": "Hello,星を数えて.mp3",
-            "img": "",
+            "nameKanji": "Hello,星を数えて",
+            "name": "Hello, Hoshi o Kazoete",
+            "img": "07fUKPw.png",
             "song": "src/songs/muse/Hello,星を数えて.mp3"
         },
         {
-            "nameKanji": "I'll smile for yours.mp3",
-            "name": "I'll smile for yours.mp3",
-            "img": "",
+            "nameKanji": "I'll smile for yours",
+            "name": "I'll smile for yours",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/I'll smile for yours.mp3"
         },
         {
-            "nameKanji": "KiRa-KiRa Sensation!.mp3",
-            "name": "KiRa-KiRa Sensation!.mp3",
-            "img": "",
+            "nameKanji": "KiRa-KiRa Sensation!",
+            "name": "KiRa-KiRa Sensation!",
+            "img": "cSzdqWa.png",
             "song": "src/songs/muse/KiRa-KiRa Sensation!.mp3"
         },
         {
-            "nameKanji": "Listen to my heart!!.mp3",
-            "name": "Listen to my heart!!.mp3",
-            "img": "",
+            "nameKanji": "Listen to my heart!!",
+            "name": "Listen to my heart!!",
+            "img": "xA0PJA8.jpg",
             "song": "src/songs/muse/Listen to my heart!!.mp3"
         },
         {
-            "nameKanji": "LONELIEST BABY.mp3",
-            "name": "LONELIEST BABY.mp3",
-            "img": "",
+            "nameKanji": "LONELIEST BABY",
+            "name": "LONELIEST BABY",
+            "img": "E2LI1Bi.png",
             "song": "src/songs/muse/LONELIEST BABY.mp3"
         },
         {
-            "nameKanji": "Love marginal.mp3",
-            "name": "Love marginal.mp3",
-            "img": "",
+            "nameKanji": "Love marginal",
+            "name": "Love marginal",
+            "img": "AD8hdhL.png",
             "song": "src/songs/muse/Love marginal.mp3"
         },
         {
-            "nameKanji": "Love Wing Bell.mp3",
-            "name": "Love Wing Bell.mp3",
-            "img": "",
+            "nameKanji": "Love Wing Bell",
+            "name": "Love Wing Bell",
+            "img": "KZVj0Oq.png",
             "song": "src/songs/muse/Love Wing Bell.mp3"
         },
         {
-            "nameKanji": "LOVELESS WORLD.mp3",
-            "name": "LOVELESS WORLD.mp3",
-            "img": "",
+            "nameKanji": "LOVELESS WORLD",
+            "name": "LOVELESS WORLD",
+            "img": "il1eNAL.png",
             "song": "src/songs/muse/LOVELESS WORLD.mp3"
         },
         {
-            "nameKanji": "Mermaid festa vol.1.mp3",
-            "name": "Mermaid festa vol.1.mp3",
-            "img": "",
+            "nameKanji": "Mermaid festa vol.1",
+            "name": "Mermaid festa vol.1",
+            "img": "DMk4Srn.png",
             "song": "src/songs/muse/Mermaid festa vol.1.mp3"
         },
         {
-            "nameKanji": "Mermaid festa vol.2 〜Passionate〜.mp3",
-            "name": "Mermaid festa vol.2 〜Passionate〜.mp3",
-            "img": "",
+            "nameKanji": "Mermaid festa vol.2 〜Passionate〜",
+            "name": "Mermaid festa vol.2 〜Passionate〜",
+            "img": "PnzgASu.jpg",
             "song": "src/songs/muse/Mermaid festa vol.2 〜Passionate〜.mp3"
         },
         {
-            "nameKanji": "MOMENT RING.mp3",
-            "name": "MOMENT RING.mp3",
-            "img": "",
+            "nameKanji": "MOMENT RING",
+            "name": "MOMENT RING",
+            "img": "QdQ2Rlz.jpg",
             "song": "src/songs/muse/MOMENT RING.mp3"
         },
         {
-            "nameKanji": "MUSEUMでどうしたい.mp3",
-            "name": "MUSEUMでどうしたい.mp3",
-            "img": "",
+            "nameKanji": "MUSEUMでどうしたい",
+            "name": "MUSEUM de Dou Shitai?",
+            "img": "6ABwl2o.png",
             "song": "src/songs/muse/MUSEUMでどうしたい.mp3"
         },
         {
-            "nameKanji": "Music S.T.A.R.T!!.mp3",
-            "name": "Music S.T.A.R.T!!.mp3",
-            "img": "",
+            "nameKanji": "Music S.T.A.R.T!!",
+            "name": "Music S.T.A.R.T!!",
+            "img": "il1eNAL.png",
             "song": "src/songs/muse/Music S.T.A.R.T!!.mp3"
         },
         {
-            "nameKanji": "NEURON,NEURON!!.mp3",
-            "name": "NEURON,NEURON!!.mp3",
-            "img": "",
+            "nameKanji": "NEURON,NEURON!!",
+            "name": "NEURON,NEURON!!",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/NEURON,NEURON!!.mp3"
         },
         {
-            "nameKanji": "No brand girls.mp3",
-            "name": "No brand girls.mp3",
-            "img": "",
+            "nameKanji": "No brand girls",
+            "name": "No brand girls",
+            "img": "CV8yCmr.jpg",
             "song": "src/songs/muse/No brand girls.mp3"
         },
         {
-            "nameKanji": "NO EXIT ORION.mp3",
-            "name": "NO EXIT ORION.mp3",
-            "img": "",
+            "nameKanji": "NO EXIT ORION",
+            "name": "NO EXIT ORION",
+            "img": "tsU8dCW.png",
             "song": "src/songs/muse/NO EXIT ORION.mp3"
         },
         {
-            "nameKanji": "Oh,Love&Peace!.mp3",
-            "name": "Oh,Love&Peace!.mp3",
-            "img": "",
+            "nameKanji": "Oh,Love&Peace!",
+            "name": "Oh,Love&Peace!",
+            "img": "Ki0s3E4.jpg",
             "song": "src/songs/muse/Oh,Love&Peace!.mp3"
         },
         {
-            "nameKanji": "Paradise Live.mp3",
-            "name": "Paradise Live.mp3",
-            "img": "",
+            "nameKanji": "Paradise Live",
+            "name": "Paradise Live",
+            "img": "jUNIUhQ.jpg",
             "song": "src/songs/muse/Paradise Live.mp3"
         },
         {
-            "nameKanji": "PSYCHIC FIRE.mp3",
-            "name": "PSYCHIC FIRE.mp3",
-            "img": "",
+            "nameKanji": "PSYCHIC FIRE",
+            "name": "PSYCHIC FIRE",
+            "img": "RdncPaY.png",
             "song": "src/songs/muse/PSYCHIC FIRE.mp3"
         },
         {
-            "nameKanji": "Pure girls project.mp3",
-            "name": "Pure girls project.mp3",
-            "img": "",
+            "nameKanji": "Pure girls project",
+            "name": "Pure girls project",
+            "img": "H7igLM1.png",
             "song": "src/songs/muse/Pure girls project.mp3"
         },
         {
-            "nameKanji": "Sentimental StepS.mp3",
-            "name": "Sentimental StepS.mp3",
-            "img": "",
+            "nameKanji": "Sentimental StepS",
+            "name": "Sentimental StepS",
+            "img": "jGiWSyt.png",
             "song": "src/songs/muse/Sentimental StepS.mp3"
         },
         {
-            "nameKanji": "Shangri-La Shower.mp3",
-            "name": "Shangri-La Shower.mp3",
-            "img": "",
+            "nameKanji": "Shangri-La Shower",
+            "name": "Shangri-La Shower",
+            "img": "Yn4f84O.jpg",
             "song": "src/songs/muse/Shangri-La Shower.mp3"
         },
         {
-            "nameKanji": "Silent tonight.mp3",
-            "name": "Silent tonight.mp3",
-            "img": "",
+            "nameKanji": "Silent tonight",
+            "name": "Silent tonight",
+            "img": "1IBJTls.png",
             "song": "src/songs/muse/Silent tonight.mp3"
         },
         {
-            "nameKanji": "Snow halation.mp3",
-            "name": "Snow halation.mp3",
-            "img": "",
+            "nameKanji": "Snow halation",
+            "name": "Snow halation",
+            "img": "q2Ifj5b.png",
             "song": "src/songs/muse/Snow halation.mp3"
         },
         {
-            "nameKanji": "soldier game.mp3",
-            "name": "soldier game.mp3",
-            "img": "",
+            "nameKanji": "soldier game",
+            "name": "soldier game",
+            "img": "YGLC42s.png",
             "song": "src/songs/muse/soldier game.mp3"
         },
         {
-            "nameKanji": "Someday of my life.mp3",
-            "name": "Someday of my life.mp3",
-            "img": "",
+            "nameKanji": "Someday of my life",
+            "name": "Someday of my life",
+            "img": "PnzgASu.jpg",
             "song": "src/songs/muse/Someday of my life.mp3"
         },
         {
-            "nameKanji": "STARTDASH!! (Full Member Ver).mp3",
-            "name": "STARTDASH!! (Full Member Ver).mp3",
-            "img": "",
+            "nameKanji": "STARTDASH!! (Full Member Ver)",
+            "name": "STARTDASH!! (Full Member Ver)",
+            "img": "CV8yCmr.jpg",
             "song": "src/songs/muse/STARTDASH!! (Full Member Ver).mp3"
         },
         {
-            "nameKanji": "STARTDASH!!.mp3",
-            "name": "STARTDASH!!.mp3",
-            "img": "",
+            "nameKanji": "STARTDASH!!",
+            "name": "STARTDASH!!",
+            "img": "knGpPGG.png",
             "song": "src/songs/muse/STARTDASH!!.mp3"
         },
         {
-            "nameKanji": "Storm in Lover.mp3",
-            "name": "Storm in Lover.mp3",
-            "img": "",
+            "nameKanji": "Storm in Lover",
+            "name": "Storm in Lover",
+            "img": "YAVrjxZ.png",
             "song": "src/songs/muse/Storm in Lover.mp3"
         },
         {
-            "nameKanji": "SUNNY DAY SONG (Movie Edit).mp3",
-            "name": "SUNNY DAY SONG (Movie Edit).mp3",
-            "img": "",
-            "song": "src/songs/muse/SUNNY DAY SONG (Movie Edit).mp3"
-        },
-        {
-            "nameKanji": "SUNNY DAY SONG.mp3",
-            "name": "SUNNY DAY SONG.mp3",
-            "img": "",
+            "nameKanji": "SUNNY DAY SONG",
+            "name": "SUNNY DAY SONG",
+            "img": "cWzzpo3.png",
             "song": "src/songs/muse/SUNNY DAY SONG.mp3"
         },
         {
-            "nameKanji": "Super LOVE=Super LIVE!.mp3",
-            "name": "Super LOVE=Super LIVE!.mp3",
-            "img": "",
+            "nameKanji": "Super LOVE=Super LIVE!",
+            "name": "Super LOVE=Super LIVE!",
+            "img": "6pu7lhB.jpg",
             "song": "src/songs/muse/Super LOVE=Super LIVE!.mp3"
         },
         {
-            "nameKanji": "sweet&sweet holiday.mp3",
-            "name": "sweet&sweet holiday.mp3",
-            "img": "",
+            "nameKanji": "sweet&sweet holiday",
+            "name": "sweet&sweet holiday",
+            "img": "AD8hdhL.png",
             "song": "src/songs/muse/sweet&sweet holiday.mp3"
         },
         {
-            "nameKanji": "Trouble Busters.mp3",
-            "name": "Trouble Busters.mp3",
-            "img": "",
+            "nameKanji": "Trouble Busters",
+            "name": "Trouble Busters",
+            "img": "fg3gYkZ.png",
             "song": "src/songs/muse/Trouble Busters.mp3"
         },
         {
-            "nameKanji": "UNBALANCED LOVE.mp3",
-            "name": "UNBALANCED LOVE.mp3",
-            "img": "",
+            "nameKanji": "UNBALANCED LOVE",
+            "name": "UNBALANCED LOVE",
+            "img": "H7igLM1.png",
             "song": "src/songs/muse/UNBALANCED LOVE.mp3"
         },
         {
-            "nameKanji": "WAO-WAO Powerful day!.mp3",
-            "name": "WAO-WAO Powerful day!.mp3",
-            "img": "",
+            "nameKanji": "WAO-WAO Powerful day!",
+            "name": "WAO-WAO Powerful day!",
+            "img": "tsU8dCW.png",
             "song": "src/songs/muse/WAO-WAO Powerful day!.mp3"
         },
         {
-            "nameKanji": "WILD STARS.mp3",
-            "name": "WILD STARS.mp3",
-            "img": "",
+            "nameKanji": "WILD STARS",
+            "name": "WILD STARS",
+            "img": "CZ6Nybv.png",
             "song": "src/songs/muse/WILD STARS.mp3"
         },
         {
-            "nameKanji": "Wonder zone.mp3",
-            "name": "Wonder zone.mp3",
-            "img": "",
+            "nameKanji": "Wonder zone",
+            "name": "Wonder zone",
+            "img": "TckXJ1t.png",
             "song": "src/songs/muse/Wonder zone.mp3"
         },
         {
-            "nameKanji": "Wonderful Rush.mp3",
-            "name": "Wonderful Rush.mp3",
-            "img": "",
+            "nameKanji": "Wonderful Rush",
+            "name": "Wonderful Rush",
+            "img": "Emvx9xE.png",
             "song": "src/songs/muse/Wonderful Rush.mp3"
         },
         {
-            "nameKanji": "←HEARTBEAT.mp3",
-            "name": "←HEARTBEAT.mp3",
-            "img": "",
+            "nameKanji": "?←HEARTBEAT",
+            "name": "?←HEARTBEAT",
+            "img": "cWzzpo3.png",
             "song": "src/songs/muse/←HEARTBEAT.mp3"
         },
         {
-            "nameKanji": "ありふれた悲しみの果て.mp3",
-            "name": "ありふれた悲しみの果て.mp3",
-            "img": "",
+            "nameKanji": "ありふれた悲しみの果て",
+            "name": "Arifureta Kanashimi no Hate",
+            "img": "YGLC42s.png",
             "song": "src/songs/muse/ありふれた悲しみの果て.mp3"
         },
         {
-            "nameKanji": "あ・の・ね・が・ん・ば・れ!.mp3",
-            "name": "あ・の・ね・が・ん・ば・れ!.mp3",
-            "img": "",
+            "nameKanji": "あ・の・ね・が・ん・ば・れ!",
+            "name": "A-NO-NE-GA-N-BA-RE!",
+            "img": "HaMmEsq.png",
             "song": "src/songs/muse/あ・の・ね・が・ん・ば・れ!.mp3"
         },
         {
-            "nameKanji": "きっと青春が聞こえる.mp3",
-            "name": "きっと青春が聞こえる.mp3",
-            "img": "",
+            "nameKanji": "きっと青春が聞こえる",
+            "name": "Kitto Seishun ga Kikoeru",
+            "img": "DMiRmFe.png",
             "song": "src/songs/muse/きっと青春が聞こえる.mp3"
         },
         {
-            "nameKanji": "くるりんMIRACLE.mp3",
-            "name": "くるりんMIRACLE.mp3",
-            "img": "",
+            "nameKanji": "くるりんMIRACLE",
+            "name": "Kururin MIRACLE",
+            "img": "GLHwrXG.png",
             "song": "src/songs/muse/くるりんMIRACLE.mp3"
         },
         {
-            "nameKanji": "ここで待ってるよ.mp3",
-            "name": "ここで待ってるよ.mp3",
-            "img": "",
+            "nameKanji": "ここで待ってるよ",
+            "name": "Koko de Matteru yo",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/ここで待ってるよ.mp3"
         },
         {
-            "nameKanji": "これから.mp3",
-            "name": "これから.mp3",
-            "img": "",
+            "nameKanji": "これから",
+            "name": "Korekara",
+            "img": "FJ7Z5xv.png",
             "song": "src/songs/muse/これから.mp3"
         },
         {
-            "nameKanji": "これからのSomeday.mp3",
-            "name": "これからのSomeday.mp3",
-            "img": "",
+            "nameKanji": "これからのSomeday",
+            "name": "Korekara no Someday",
+            "img": "TckXJ1t.png",
             "song": "src/songs/muse/これからのSomeday.mp3"
         },
         {
-            "nameKanji": "さようならへさよなら!.mp3",
-            "name": "さようならへさよなら!.mp3",
-            "img": "",
+            "nameKanji": "さようならへさよなら!",
+            "name": "Sayounara e Sayonara!",
+            "img": "QdQ2Rlz.jpg",
             "song": "src/songs/muse/さようならへさよなら!.mp3"
         },
         {
-            "nameKanji": "ずるいよMagnetic today.mp3",
-            "name": "ずるいよMagnetic today.mp3",
-            "img": "",
+            "nameKanji": "ずるいよMagnetic today",
+            "name": "Zurui yo Magnetic today",
+            "img": "EzhQrnz.png",
             "song": "src/songs/muse/ずるいよMagnetic today.mp3"
         },
         {
-            "nameKanji": "そして最後のページには.mp3",
-            "name": "そして最後のページには.mp3",
-            "img": "",
+            "nameKanji": "そして最後のページには",
+            "name": "Soshite Saigo no Page ni wa",
+            "img": "jfT7E9B.png",
             "song": "src/songs/muse/そして最後のページには.mp3"
         },
         {
-            "nameKanji": "それは僕たちの奇跡.mp3",
-            "name": "それは僕たちの奇跡.mp3",
-            "img": "",
+            "nameKanji": "それは僕たちの奇跡",
+            "name": "Sore wa Bokutachi no Kiseki",
+            "img": "xl8PNls.png",
             "song": "src/songs/muse/それは僕たちの奇跡.mp3"
         },
         {
-            "nameKanji": "だってだって噫無情.mp3",
-            "name": "だってだって噫無情.mp3",
-            "img": "",
+            "nameKanji": "だってだって噫無情",
+            "name": "Datte Datte Aa Mujou",
+            "img": "xl8PNls.png",
             "song": "src/songs/muse/だってだって噫無情.mp3"
         },
         {
-            "nameKanji": "どんなときもずっと.mp3",
-            "name": "どんなときもずっと.mp3",
-            "img": "",
+            "nameKanji": "どんなときもずっと",
+            "name": "Donna Toki mo Zutto",
+            "img": "5sZVT2l.jpg",
             "song": "src/songs/muse/どんなときもずっと.mp3"
         },
         {
-            "nameKanji": "なってしまった！.mp3",
-            "name": "なってしまった！.mp3",
-            "img": "",
+            "nameKanji": "なってしまった！",
+            "name": "Natte Shimatta!",
+            "img": "vgtmNeu.png",
             "song": "src/songs/muse/なってしまった！.mp3"
         },
         {
-            "nameKanji": "なわとび.mp3",
-            "name": "なわとび.mp3",
-            "img": "",
+            "nameKanji": "なわとび",
+            "name": "Nawatobi",
+            "img": "SSXFVFR.png",
             "song": "src/songs/muse/なわとび.mp3"
         },
         {
-            "nameKanji": "にこぷり♡女子道.mp3",
-            "name": "にこぷり♡女子道.mp3",
-            "img": "",
+            "nameKanji": "にこぷり♡女子道",
+            "name": "Niko puri♥Joshi dou",
+            "img": "bOyJH70.png",
             "song": "src/songs/muse/にこぷり♡女子道.mp3"
         },
         {
-            "nameKanji": "ふたりハピネス.mp3",
-            "name": "ふたりハピネス.mp3",
-            "img": "",
+            "nameKanji": "ふたりハピネス",
+            "name": "Futari Happiness",
+            "img": "o06MrLU.jpg",
             "song": "src/songs/muse/ふたりハピネス.mp3"
         },
         {
-            "nameKanji": "ぶる〜べりぃ♡とれいん.mp3",
-            "name": "ぶる〜べりぃ♡とれいん.mp3",
-            "img": "",
+            "nameKanji": "ぶる〜べりぃ♡とれいん",
+            "name": "Blueberry♥Train",
+            "img": "4ygIf2l.png",
             "song": "src/songs/muse/ぶる〜べりぃ♡とれいん.mp3"
         },
         {
-            "nameKanji": "ぷわぷわーお!.mp3",
-            "name": "ぷわぷわーお!.mp3",
-            "img": "",
+            "nameKanji": "ぷわぷわーお!",
+            "name": "Puwa Puwa O!",
+            "img": "b320zNX.png",
             "song": "src/songs/muse/ぷわぷわーお!.mp3"
         },
         {
-            "nameKanji": "まほうつかいはじめました!.mp3",
-            "name": "まほうつかいはじめました!.mp3",
-            "img": "",
+            "nameKanji": "まほうつかいはじめました!",
+            "name": "Mahoutsukai Hajimemashita!",
+            "img": "0I7EoJl.jpg",
             "song": "src/songs/muse/まほうつかいはじめました!.mp3"
         },
         {
-            "nameKanji": "もうひとりじゃないよ.mp3",
-            "name": "もうひとりじゃないよ.mp3",
-            "img": "",
+            "nameKanji": "もうひとりじゃないよ",
+            "name": "Mou Hitori Ja Nai yo",
+            "img": "YbMdh7Q.png",
             "song": "src/songs/muse/もうひとりじゃないよ.mp3"
         },
         {
-            "nameKanji": "もぎゅっと''love''で接近中!.mp3",
-            "name": "もぎゅっと''love''で接近中!.mp3",
-            "img": "",
+            "nameKanji": "もぎゅっと''love''で接近中!",
+            "name": "Mogyutto 'love' de Sekkin Chuu!",
+            "img": "85fIs5I.jpg",
             "song": "src/songs/muse/もぎゅっと''love''で接近中!.mp3"
         },
         {
-            "nameKanji": "もしもからきっと.mp3",
-            "name": "もしもからきっと.mp3",
-            "img": "",
+            "nameKanji": "もしもからきっと",
+            "name": "Moshimo Kara Kitto",
+            "img": "Qr7YmA3.png",
             "song": "src/songs/muse/もしもからきっと.mp3"
         },
         {
-            "nameKanji": "るてしキスキしてる.mp3",
-            "name": "るてしキスキしてる.mp3",
-            "img": "",
+            "nameKanji": "るてしキスキしてる",
+            "name": "Ruteshi Kisuki Shiteru",
+            "img": "Yn4f84O.jpg",
             "song": "src/songs/muse/るてしキスキしてる.mp3"
         },
         {
-            "nameKanji": "キミのくせに!.mp3",
-            "name": "キミのくせに!.mp3",
-            "img": "",
+            "nameKanji": "キミのくせに!",
+            "name": "Kimi no Kuse ni!",
+            "img": "GYQv3jb.png",
             "song": "src/songs/muse/キミのくせに!.mp3"
         },
         {
-            "nameKanji": "コドクの回廊.mp3",
-            "name": "コドクの回廊.mp3",
-            "img": "",
+            "nameKanji": "コドクの回廊",
+            "name": "Kodoku no Kairou",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/コドクの回廊.mp3"
         },
         {
-            "nameKanji": "シアワセ行きのSMILING!.mp3",
-            "name": "シアワセ行きのSMILING!.mp3",
-            "img": "",
+            "nameKanji": "シアワセ行きのSMILING!",
+            "name": "Shiawase Iki no SMILING!",
+            "img": "neit4Qt.png",
             "song": "src/songs/muse/シアワセ行きのSMILING!.mp3"
         },
         {
-            "nameKanji": "ススメ→トゥモロウ.mp3",
-            "name": "ススメ→トゥモロウ.mp3",
-            "img": "",
+            "nameKanji": "ススメ→トゥモロウ",
+            "name": "Susume→Tomorrow",
+            "img": "knGpPGG.png",
             "song": "src/songs/muse/ススメ→トゥモロウ.mp3"
         },
         {
-            "nameKanji": "スピカテリブル.mp3",
-            "name": "スピカテリブル.mp3",
-            "img": "",
+            "nameKanji": "スピカテリブル",
+            "name": "Spicaterrible",
+            "img": "ykxoOty.png",
             "song": "src/songs/muse/スピカテリブル.mp3"
         },
         {
-            "nameKanji": "タカラモノズ.mp3",
-            "name": "タカラモノズ.mp3",
-            "img": "",
+            "nameKanji": "タカラモノズ",
+            "name": "Takaramonozu",
+            "img": "jUNIUhQ.jpg",
             "song": "src/songs/muse/タカラモノズ.mp3"
         },
         {
-            "nameKanji": "ダイヤモンドプリンセスの憂鬱.mp3",
-            "name": "ダイヤモンドプリンセスの憂鬱.mp3",
-            "img": "",
+            "nameKanji": "ダイヤモンドプリンセスの憂鬱",
+            "name": "Diamond Princess no Yuuutsu",
+            "img": "Lzn5QdL.png",
             "song": "src/songs/muse/ダイヤモンドプリンセスの憂鬱.mp3"
         },
         {
-            "nameKanji": "ミはμ'sicのミ.mp3",
-            "name": "ミはμ'sicのミ.mp3",
-            "img": "",
+            "nameKanji": "ミはμ'sicのミ",
+            "name": "Mi wa Mu'sic no Mi",
+            "img": "6pu7lhB.jpg",
             "song": "src/songs/muse/ミはμ'sicのミ.mp3"
         },
         {
-            "nameKanji": "ユメノトビラ.mp3",
-            "name": "ユメノトビラ.mp3",
-            "img": "",
+            "nameKanji": "ユメノトビラ",
+            "name": "Yume no Tobira",
+            "img": "jGiWSyt.png",
             "song": "src/songs/muse/ユメノトビラ.mp3"
         },
         {
-            "nameKanji": "ラブノベルス.mp3",
-            "name": "ラブノベルス.mp3",
-            "img": "",
+            "nameKanji": "ラブノベルス",
+            "name": "Love Novels",
+            "img": "Lzn5QdL.png",
             "song": "src/songs/muse/ラブノベルス.mp3"
         },
         {
-            "nameKanji": "乙女式れんあい塾.mp3",
-            "name": "乙女式れんあい塾.mp3",
-            "img": "",
+            "nameKanji": "乙女式れんあい塾",
+            "name": "Otome Shiki Ren'ai Juku",
+            "img": "0I7EoJl.jpg",
             "song": "src/songs/muse/乙女式れんあい塾.mp3"
         },
         {
-            "nameKanji": "乙姫心で恋宮殿.mp3",
-            "name": "乙姫心で恋宮殿.mp3",
-            "img": "",
+            "nameKanji": "乙姫心で恋宮殿",
+            "name": "Otohime Heart de Love Kyuuden",
+            "img": "Yh4UuA9.png",
             "song": "src/songs/muse/乙姫心で恋宮殿.mp3"
         },
         {
-            "nameKanji": "僕たちはひとつの光.mp3",
-            "name": "僕たちはひとつの光.mp3",
-            "img": "",
+            "nameKanji": "僕たちはひとつの光",
+            "name": "Bokutachi wa Hitotsu no Hikari",
+            "img": "Ak7WWbY.png",
             "song": "src/songs/muse/僕たちはひとつの光.mp3"
         },
         {
-            "nameKanji": "僕らのLIVE 君とのLIFE.mp3",
-            "name": "僕らのLIVE 君とのLIFE.mp3",
-            "img": "",
+            "nameKanji": "僕らのLIVE 君とのLIFE",
+            "name": "Bokura no LIVE Kimi to no LIFE",
+            "img": "I5iphlE.jpg",
             "song": "src/songs/muse/僕らのLIVE 君とのLIFE.mp3"
         },
         {
-            "nameKanji": "僕らは今のなかで.mp3",
-            "name": "僕らは今のなかで.mp3",
-            "img": "",
+            "nameKanji": "僕らは今のなかで",
+            "name": "Bokura wa Ima no Naka de",
+            "img": "CZ6Nybv.png",
             "song": "src/songs/muse/僕らは今のなかで.mp3"
         },
         {
-            "nameKanji": "冬がくれた予感.mp3",
-            "name": "冬がくれた予感.mp3",
-            "img": "",
+            "nameKanji": "冬がくれた予感",
+            "name": "Fuyu ga Kureta Yokan",
+            "img": "fg3gYkZ.png",
             "song": "src/songs/muse/冬がくれた予感.mp3"
         },
         {
-            "nameKanji": "勇気のReason.mp3",
-            "name": "勇気のReason.mp3",
-            "img": "",
+            "nameKanji": "勇気のReason",
+            "name": "Yuuki no Reason",
+            "img": "YGLC42s.png",
             "song": "src/songs/muse/勇気のReason.mp3"
         },
         {
-            "nameKanji": "友情ノーチェンジ.mp3",
-            "name": "友情ノーチェンジ.mp3",
-            "img": "",
+            "nameKanji": "友情ノーチェンジ",
+            "name": "Yuujou no Change",
+            "img": "I5iphlE.jpg",
             "song": "src/songs/muse/友情ノーチェンジ.mp3"
         },
         {
-            "nameKanji": "同じ星が見たい.mp3",
-            "name": "同じ星が見たい.mp3",
-            "img": "",
+            "nameKanji": "同じ星が見たい",
+            "name": "Onaji Hoshi ga Mitai",
+            "img": "4jo5klx.png",
             "song": "src/songs/muse/同じ星が見たい.mp3"
         },
         {
-            "nameKanji": "告白日和、です!.mp3",
-            "name": "告白日和、です!.mp3",
-            "img": "",
+            "nameKanji": "告白日和、です!",
+            "name": "Kokuhaku Biyori, desu!",
+            "img": "4ygIf2l.png",
             "song": "src/songs/muse/告白日和、です!.mp3"
         },
         {
-            "nameKanji": "夏、終わらないで。.mp3",
-            "name": "夏、終わらないで。.mp3",
-            "img": "",
+            "nameKanji": "夏、終わらないで。",
+            "name": "Natsu, Owaranai de.",
+            "img": "rTfKPO2.png",
             "song": "src/songs/muse/夏、終わらないで。.mp3"
         },
         {
-            "nameKanji": "夏色えがおで1,2,Jump!.mp3",
-            "name": "夏色えがおで1,2,Jump!.mp3",
-            "img": "",
+            "nameKanji": "夏色えがおで1,2,Jump!",
+            "name": "Natsuiro Egao de 1,2,Jump!",
+            "img": "fg2avmL.jpg",
             "song": "src/songs/muse/夏色えがおで1,2,Jump!.mp3"
         },
         {
-            "nameKanji": "夢☆ONCE AGAIN.mp3",
-            "name": "夢☆ONCE AGAIN.mp3",
-            "img": "",
+            "nameKanji": "夢☆ONCE AGAIN",
+            "name": "Yume☆ONCE AGAIN",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/夢☆ONCE AGAIN.mp3"
         },
         {
-            "nameKanji": "夢なき夢は夢じゃない.mp3",
-            "name": "夢なき夢は夢じゃない.mp3",
-            "img": "",
+            "nameKanji": "夢なき夢は夢じゃない",
+            "name": "Yume Naki Yume wa Yume ja nai",
+            "img": "7CexDZD.png",
             "song": "src/songs/muse/夢なき夢は夢じゃない.mp3"
         },
         {
-            "nameKanji": "好きですが好きですか.mp3",
-            "name": "好きですが好きですか.mp3",
-            "img": "",
+            "nameKanji": "好きですが好きですか",
+            "name": "Suki desu ga Suki desu ka?",
+            "img": "qFI3EgC.png",
             "song": "src/songs/muse/好きですが好きですか.mp3"
         },
         {
-            "nameKanji": "孤独なHeaven.mp3",
-            "name": "孤独なHeaven.mp3",
-            "img": "",
+            "nameKanji": "孤独なHeaven",
+            "name": "Kodoku na Heaven",
+            "img": "4ygIf2l.png",
             "song": "src/songs/muse/孤独なHeaven.mp3"
         },
         {
-            "nameKanji": "小夜啼鳥恋詩.mp3",
-            "name": "小夜啼鳥恋詩.mp3",
-            "img": "",
+            "nameKanji": "小夜啼鳥恋詩",
+            "name": "Nightingale Love Song",
+            "img": "a34s70u.jpg",
             "song": "src/songs/muse/小夜啼鳥恋詩.mp3"
         },
         {
-            "nameKanji": "嵐のなかの恋だから.mp3",
-            "name": "嵐のなかの恋だから.mp3",
-            "img": "",
+            "nameKanji": "嵐のなかの恋だから",
+            "name": "Arashi no Naka no Koi dakara",
+            "img": "gn9Zppi.png",
             "song": "src/songs/muse/嵐のなかの恋だから.mp3"
         },
         {
-            "nameKanji": "微熱からMystery.mp3",
-            "name": "微熱からMystery.mp3",
-            "img": "",
+            "nameKanji": "微熱からMystery",
+            "name": "Binetsu Kara Mystery",
+            "img": "GYQv3jb.png",
             "song": "src/songs/muse/微熱からMystery.mp3"
         },
         {
-            "nameKanji": "思い出以上になりたくて.mp3",
-            "name": "思い出以上になりたくて.mp3",
-            "img": "",
+            "nameKanji": "思い出以上になりたくて",
+            "name": "Omoide Ijou ni Naritakute",
+            "img": "c7tJarI.png",
             "song": "src/songs/muse/思い出以上になりたくて.mp3"
         },
         {
-            "nameKanji": "恋のシグナルRin rin rin!.mp3",
-            "name": "恋のシグナルRin rin rin!.mp3",
-            "img": "",
+            "nameKanji": "恋のシグナルRin rin rin!",
+            "name": "Koi no Signal Rin rin rin!",
+            "img": "PnzgASu.jpg",
             "song": "src/songs/muse/恋のシグナルRin rin rin!.mp3"
         },
         {
-            "nameKanji": "愛してるばんざーい!.mp3",
-            "name": "愛してるばんざーい!.mp3",
-            "img": "",
+            "nameKanji": "愛してるばんざーい!",
+            "name": "Aishiteru Banzai!",
+            "img": "rj5WXk7.jpg",
             "song": "src/songs/muse/愛してるばんざーい!.mp3"
         },
         {
-            "nameKanji": "愛は太陽じゃない.mp3",
-            "name": "愛は太陽じゃない.mp3",
-            "img": "",
+            "nameKanji": "愛は太陽じゃない",
+            "name": "Ai wa Taiyou Ja Nai",
+            "img": "YbMdh7Q.png",
             "song": "src/songs/muse/愛は太陽じゃない.mp3"
         },
         {
-            "nameKanji": "斯くも憂美な日となりて.mp3",
-            "name": "斯くも憂美な日となりて.mp3",
-            "img": "",
+            "nameKanji": "斯くも憂美な日となりて",
+            "name": "Kaku mo Yuubi na Hi to Narite",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/斯くも憂美な日となりて.mp3"
         },
         {
-            "nameKanji": "春情ロマンティック.mp3",
-            "name": "春情ロマンティック.mp3",
-            "img": "",
+            "nameKanji": "春情ロマンティック",
+            "name": "Shunjou Romantic",
+            "img": "c7tJarI.png",
             "song": "src/songs/muse/春情ロマンティック.mp3"
         },
         {
-            "nameKanji": "最低で最高のParadiso.mp3",
-            "name": "最低で最高のParadiso.mp3",
-            "img": "",
+            "nameKanji": "最低で最高のParadiso",
+            "name": "Saitei de Saikou no Paradiso",
+            "img": "xPqJZCs.png",
             "song": "src/songs/muse/最低で最高のParadiso.mp3"
         },
         {
-            "nameKanji": "永遠フレンズ.mp3",
-            "name": "永遠フレンズ.mp3",
-            "img": "",
+            "nameKanji": "永遠フレンズ",
+            "name": "Eien Friends",
+            "img": "a34s70u.jpg",
             "song": "src/songs/muse/永遠フレンズ.mp3"
         },
         {
-            "nameKanji": "知らないLove教えてLove.mp3",
-            "name": "知らないLove教えてLove.mp3",
-            "img": "",
+            "nameKanji": "知らないLove教えてLove",
+            "name": "Shiranai Love*Oshiete Love",
+            "img": "HaMmEsq.png",
             "song": "src/songs/muse/知らないLove教えてLove.mp3"
         },
         {
-            "nameKanji": "硝子の花園.mp3",
-            "name": "硝子の花園.mp3",
-            "img": "",
+            "nameKanji": "硝子の花園",
+            "name": "Garasu no Hanazono",
+            "img": "jBpvUt7.png",
             "song": "src/songs/muse/硝子の花園.mp3"
         },
         {
-            "nameKanji": "私たちは未来の花.mp3",
-            "name": "私たちは未来の花.mp3",
-            "img": "",
+            "nameKanji": "私たちは未来の花",
+            "name": "Watashitachi wa Mirai no Hana",
+            "img": "jeEal32.png",
             "song": "src/songs/muse/私たちは未来の花.mp3"
         },
         {
-            "nameKanji": "秋のあなたの空遠く.mp3",
-            "name": "秋のあなたの空遠く.mp3",
-            "img": "",
+            "nameKanji": "秋のあなたの空遠く",
+            "name": "Aki no Anata no Sora Tooku",
+            "img": "o06MrLU.jpg",
             "song": "src/songs/muse/秋のあなたの空遠く.mp3"
         },
         {
-            "nameKanji": "秘密と花園.mp3",
-            "name": "秘密と花園.mp3",
-            "img": "",
+            "nameKanji": "秘密と花園",
+            "name": "Himitsu to Hanazono",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/秘密と花園.mp3"
         },
         {
-            "nameKanji": "純愛レンズ.mp3",
-            "name": "純愛レンズ.mp3",
-            "img": "",
+            "nameKanji": "純愛レンズ",
+            "name": "Junai Lens",
+            "img": "0I7EoJl.jpg",
             "song": "src/songs/muse/純愛レンズ.mp3"
         },
         {
-            "nameKanji": "羽は知ってしまったの？.mp3",
-            "name": "羽は知ってしまったの？.mp3",
-            "img": "",
+            "nameKanji": "羽は知ってしまったの？",
+            "name": "Hane wa Shitte Shimatta no?",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/羽は知ってしまったの？.mp3"
         },
         {
-            "nameKanji": "輝夜の城で踊りたい.mp3",
-            "name": "輝夜の城で踊りたい.mp3",
-            "img": "",
+            "nameKanji": "輝夜の城で踊りたい",
+            "name": "Kaguya no Shiro de Odoritai",
+            "img": "DMiRmFe.png",
             "song": "src/songs/muse/輝夜の城で踊りたい.mp3"
         },
         {
-            "nameKanji": "錯覚CROSSROADS.mp3",
-            "name": "錯覚CROSSROADS.mp3",
-            "img": "",
+            "nameKanji": "錯覚CROSSROADS",
+            "name": "Sakkaku CROSSROADS",
+            "img": "RdncPaY.png",
             "song": "src/songs/muse/錯覚CROSSROADS.mp3"
         },
         {
-            "nameKanji": "閃光Resolution.mp3",
-            "name": "閃光Resolution.mp3",
-            "img": "",
+            "nameKanji": "閃光Resolution",
+            "name": "Senkou Resolution",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/閃光Resolution.mp3"
         },
         {
-            "nameKanji": "革命ですね？神様！.mp3",
-            "name": "革命ですね？神様！.mp3",
-            "img": "",
+            "nameKanji": "革命ですね？神様！",
+            "name": "Kakumei desu ne? Kamisama!！",
+            "img": "AqCphlL.png",
             "song": "src/songs/muse/革命ですね？神様！.mp3"
         }
     ]

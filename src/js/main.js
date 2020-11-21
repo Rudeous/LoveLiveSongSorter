@@ -184,12 +184,25 @@ function init() {
 /** Begin sorting. */
 function selectMuse() {
     //console.log("success");
-    document.querySelector('#overlayPage').style.visibility = 'hidden'; // hide overlay selection page
+    document.querySelector('.left.sort.image').src = "src/assets/museL.png"; // change left and right images of start page to muse ones
+    document.querySelector('.right.sort.image').src = "src/assets/museR.jpg";
+    document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
     document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
-    characterData = dataSet[currentVersion].characterData[0];
+    characterData = dataSet[currentVersion].characterData[1]; //select muse data set
+    start();
     // TO DO:
     // load muse songs dataset
     // trigger button click to proceed with sorter 
+}
+
+function selectAqours() {
+    //console.log("success");
+    document.querySelector('.left.sort.image').src = "src/assets/defaultL.png"; // change left and right images of start page to aqours ones
+    document.querySelector('.right.sort.image').src = "src/assets/DefaultR.png";
+    document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
+    document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
+    characterData = dataSet[currentVersion].characterData[0]; //select muse data set
+    start();
 }
 
 function start() {
@@ -686,7 +699,7 @@ function setLatestDataset() {
         }, 0);
     currentVersion = Object.keys(dataSet)[latestDateIndex];
 
-    characterData = dataSet[currentVersion].characterData[1];
+    //characterData = dataSet[currentVersion].characterData[1];
     // options = dataSet[currentVersion].options;
 
 }
