@@ -205,6 +205,16 @@ function selectAqours() {
     start();
 }
 
+function selectNijigaku() {
+    //console.log("success");
+    document.querySelector('.left.sort.image').src = "src/assets/nijigakuL.png"; // change left and right images of start page to nijigaku ones
+    document.querySelector('.right.sort.image').src = "src/assets/nijigakuR.jpg";
+    document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
+    document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
+    characterData = dataSet[currentVersion].characterData[2]; //select nijigaku data set
+    start();
+}
+
 function start() {
     /** Copy data into sorting array to filter. */
     characterDataToSort = characterData.slice(0);

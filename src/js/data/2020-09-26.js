@@ -1439,5 +1439,234 @@ dataSet[dataSetVersion].characterData = [
             "img": "AqCphlL.png",
             "song": "src/songs/muse/革命ですね？神様！.mp3"
         }
+    ],
+    [{
+            "nameKanji": "Beautiful Moonlight",
+            "name": "Beautiful Moonlight",
+            "img": "2cWyOV9.png",
+            "song": "src/songs/nijigaku/Beautiful Moonlight.mp3"
+        },
+        {
+            "nameKanji": "CHASE!",
+            "name": "CHASE!",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/CHASE!.mp3"
+        },
+        {
+            "nameKanji": "Cheer for you!!",
+            "name": "Cheer for you!!",
+            "img": "LQvc02n.png",
+            "song": "src/songs/nijigaku/Cheer for you!!.mp3"
+        },
+        {
+            "nameKanji": "Dream Land! Dream World!",
+            "name": "Dream Land! Dream World!",
+            "img": "LQvc02n.png",
+            "song": "src/songs/nijigaku/Dream Land! Dream World!.mp3"
+        },
+        {
+            "nameKanji": "Evergeen",
+            "name": "Evergeen",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/Evergeen.mp3"
+        },
+        {
+            "nameKanji": "Fire Bird",
+            "name": "Fire Bird",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/Fire Bird.mp3"
+        },
+        {
+            "nameKanji": "Just Believe!!!",
+            "name": "Just Believe!!!",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/Just Believe!!!.mp3"
+        },
+        {
+            "nameKanji": "LIKE IT! LOVE IT!",
+            "name": "LIKE IT! LOVE IT!",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/LIKE IT! LOVE IT!.mp3"
+        },
+        {
+            "nameKanji": "Love Triangle",
+            "name": "Love Triangle",
+            "img": "bhJtJB6.png",
+            "song": "src/songs/nijigaku/Love Triangle.mp3"
+        },
+        {
+            "nameKanji": "Love U my friends",
+            "name": "Love U my friends",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/Love U my friends.mp3"
+        },
+        {
+            "nameKanji": "Margaret",
+            "name": "Margaret",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/Margaret.mp3"
+        },
+        {
+            "nameKanji": "MELODY",
+            "name": "MELODY",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/MELODY.mp3"
+        },
+        {
+            "nameKanji": "My Own Fairy-Tale",
+            "name": "My Own Fairy-Tale",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/My Own Fairy-Tale.mp3"
+        },
+        {
+            "nameKanji": "Märchen Star",
+            "name": "Märchen Star",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/Märchen Star.mp3"
+        },
+        {
+            "nameKanji": "Say Good-Bye 涙",
+            "name": "Say Good-Bye Namida",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/Say Good-Bye 涙.mp3"
+        },
+        {
+            "nameKanji": "Sing & Smile!!",
+            "name": "Sing & Smile!!",
+            "img": "2cWyOV9.png",
+            "song": "src/songs/nijigaku/Sing & Smile!!.mp3"
+        },
+        {
+            "nameKanji": "Starlight",
+            "name": "Starlight",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/Starlight.mp3"
+        },
+        {
+            "nameKanji": "SUPER NOVA",
+            "name": "SUPER NOVA",
+            "img": "bhJtJB6.png",
+            "song": "src/songs/nijigaku/SUPER NOVA.mp3"
+        },
+        {
+            "nameKanji": "TOKIMEKI Runners (スクスタストーリー17章挿入歌Ver.)",
+            "name": "TOKIMEKI Runners (Chapter 17 Ver.)",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/TOKIMEKI Runners (スクスタストーリー17章挿入歌Ver.).mp3"
+        },
+        {
+            "nameKanji": "TOKIMEKI Runners",
+            "name": "TOKIMEKI Runners",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/TOKIMEKI Runners.mp3"
+        },
+        {
+            "nameKanji": "Wish",
+            "name": "Wish",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/Wish.mp3"
+        },
+        {
+            "nameKanji": "☆ワンダーランド☆",
+            "name": "☆Wonderland☆",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/☆ワンダーランド☆.mp3"
+        },
+        {
+            "nameKanji": "あなたの理想のヒロイン",
+            "name": "Anata no Risou no Heroine",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/あなたの理想のヒロイン.mp3"
+        },
+        {
+            "nameKanji": "めっちゃGoing!!",
+            "name": "Meccha Going!!",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/めっちゃGoing!!.mp3"
+        },
+        {
+            "nameKanji": "やがてひとつの物語",
+            "name": "Yagate Hitotsu no Monogatari",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/やがてひとつの物語.mp3"
+        },
+        {
+            "nameKanji": "アナログハート",
+            "name": "Analog Heart",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/アナログハート.mp3"
+        },
+        {
+            "nameKanji": "オードリー",
+            "name": "Audrey",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/オードリー.mp3"
+        },
+        {
+            "nameKanji": "ダイアモンド",
+            "name": "Diamond",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/ダイアモンド.mp3"
+        },
+        {
+            "nameKanji": "テレテレパシー",
+            "name": "Teletelepathy",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/テレテレパシー.mp3"
+        },
+        {
+            "nameKanji": "ドキピポ☆エモーション",
+            "name": "Doki Pipo ☆ Emotion",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/ドキピポ☆エモーション.mp3"
+        },
+        {
+            "nameKanji": "友 & 愛",
+            "name": "Yuu & Ai",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/友 & 愛.mp3"
+        },
+        {
+            "nameKanji": "哀温ノ詩",
+            "name": "Aion no Uta",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/哀温ノ詩.mp3"
+        },
+        {
+            "nameKanji": "声繋ごうよ",
+            "name": "Koe Tsunagu yo",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/声繋ごうよ.mp3"
+        },
+        {
+            "nameKanji": "夢への一歩",
+            "name": "Yume e no Ippo",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/夢への一歩.mp3"
+        },
+        {
+            "nameKanji": "楽しいの天才",
+            "name": "Tanoshii no Tensai",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/楽しいの天才.mp3"
+        },
+        {
+            "nameKanji": "決意の光",
+            "name": "Ketsui no Hikari",
+            "img": "4X0kg4M.png",
+            "song": "src/songs/nijigaku/決意の光.mp3"
+        },
+        {
+            "nameKanji": "眠れる森に行きたいな",
+            "name": "Nemureru Mori ni Ikitai na",
+            "img": "Dy0V1tv.png",
+            "song": "src/songs/nijigaku/眠れる森に行きたいな.mp3"
+        },
+        {
+            "nameKanji": "開花宣言",
+            "name": "Kaika Sengen",
+            "img": "s3AYrbn.png",
+            "song": "src/songs/nijigaku/開花宣言.mp3"
+        }
     ]
 ]
