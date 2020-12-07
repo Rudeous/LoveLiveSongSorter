@@ -10,23 +10,54 @@
     background: rgba(0, 0, 0, 0);
 }
 
+
+
 .overlay-content {
 
     display: grid;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
     height: 100%;
     /* background-color: skyblue; */
-    grid-template-columns: 1fr, 1fr, 1fr;
+    /* grid-template-columns: 1fr, 1fr, 1fr; */
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-template-rows: 1fr 2fr 1fr;
     gap: 0px 1em;
+    align-items: center;
     /* grid-template-columns: repeat(auto-fit, minmax(19em, 1fr)); */
     
 }
+
+/* sorter header */
+.sorterTitle {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    align-items: center;
+    justify-content: center;
+    
+}
+.sorterTitle > p {
+    text-align: center;
+    font-size: 3vw;
+    font-weight: 500;
+    color: black;
+}
+
+
+
+.groupCard {
+    width: 100%;
+}
+
 .groupCard > img {
     width: 100%;
 }
 
+/* .groupCard > p {
+    text-align: center;
+} */
+
+/* idol group buttons */
 img {
     border: 3px solid #4e4e4e;
     box-shadow: 0px 0px 27.5px 0px rgba(150, 150, 150, 1) !important;
@@ -45,8 +76,9 @@ img {
 }
 
 
-.overlay p {
-    font-size: 40px;
+.groupCard p {
+    text-align: center;
+    font-size: 2vw;
     font-weight: 600;
     color: black;
     display: block;
@@ -77,22 +109,29 @@ img {
 /* @media only screen and (min-width: 768px) {...} */
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 768px) {
     .overlay-content{
-        grid-template-columns: 1fr, 2fr, 1fr;
-        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(4, minmax(0, 1fr));
+    }
+    .sorterTitle {
+        grid-row: 1 / 2;
+        grid-column: 1 / 2;
     }
     #muse{
-        grid-column: 2 / 3;
-        grid-row: 1 / 2;
+        grid-row: 2 / 3;
+        grid-column: 1 / 2;
     }
     #aqours{
-        grid-column: 2 / 3;
-        grid-row: 2 / 3;
+        grid-row: 3 / 4;
+        grid-column: 1 / 2;
     }
     #nijigaku{
-        grid-column: 2 / 3;
-        grid-row: 3 / 4;
+        grid-row: 4 / 5;
+        grid-column: 1 / 2;
+    }
+    .groupCard { 
+        height: 100%;
     }
 }
 
@@ -114,4 +153,8 @@ img {
     grid-template-columns: repeat(4, 1fr);
     /* this is the same as grid-template-rows: 300px 300px; */
     grid-template-rows: repeat(2, 300px);
+}
+
+.info { 
+    visibility: visible;
 }
