@@ -293,11 +293,23 @@ function start() {
     var pL = document.getElementById("playerL");
     var pR = document.getElementById("playerR");
 
+    // var metaNodes = document.getElementsByTagName("meta");
+    // //console.log(metaNodes);
+    // for ( const node of metaNodes ) { // obtain meta node for viewport
+    //     //console.log(node.name)
+    //     if (node.name === "viewport") {
+    //         var viewportNode = node;            
+    //     }
+    // }
+    
     preloadImages().then(() => {
         loading = false;
         document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
         document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page
         document.querySelector('.loading.button').style.display = 'none';
+        //console.log(viewportNode);
+        //viewportNode.parentNode.removeChild(viewportNode); 
+        document.querySelector("[name='viewport']").content = ""; // remove meta tag contents for viewport since it screws up the main container's responsive layout
         document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'block');
         document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'block');
         pL.classList.remove("none");
