@@ -186,8 +186,8 @@ function selectMuse() {
     //console.log("success");
     document.querySelector('.left.sort.image').src = "src/assets/museL.png"; // change left and right images of start page to muse ones
     document.querySelector('.right.sort.image').src = "src/assets/museR.jpg";
-    document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
-    document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
+    //document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
+    //document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
     characterData = dataSet[currentVersion].characterData[1]; //select muse data set
     start();
     // TO DO:
@@ -199,8 +199,8 @@ function selectAqours() {
     //console.log("success");
     document.querySelector('.left.sort.image').src = "src/assets/defaultL.png"; // change left and right images of start page to aqours ones
     document.querySelector('.right.sort.image').src = "src/assets/DefaultR.png";
-    document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
-    document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
+    //document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
+    //document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
     characterData = dataSet[currentVersion].characterData[0]; //select muse data set
     start();
 }
@@ -209,8 +209,8 @@ function selectNijigaku() {
     //console.log("success");
     document.querySelector('.left.sort.image').src = "src/assets/nijigakuL.png"; // change left and right images of start page to nijigaku ones
     document.querySelector('.right.sort.image').src = "src/assets/nijigakuR.jpg";
-    document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
-    document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
+    //document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
+    //document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
     characterData = dataSet[currentVersion].characterData[2]; //select nijigaku data set
     start();
 }
@@ -295,6 +295,8 @@ function start() {
 
     preloadImages().then(() => {
         loading = false;
+        document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
+        document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page
         document.querySelector('.loading.button').style.display = 'none';
         document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'block');
         document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'block');

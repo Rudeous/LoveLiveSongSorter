@@ -11,6 +11,7 @@ body {
     flex-flow: column nowrap;
     align-items: center;
     margin-top: 20vh;
+    visibility: hidden;
 }
 
 .sorter {
@@ -373,6 +374,10 @@ a:visited {
 
 .hover {
     border: 3px solid #d4a2dc !important;
+}
+
+.progress {
+    visibility: hidden;
 }
 
 .progressbar {

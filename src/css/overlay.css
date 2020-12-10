@@ -51,19 +51,16 @@
 
 .groupCard > img {
     width: 100%;
+    border: 3px solid #4e4e4e;
+    box-shadow: 0px 0px 27.5px 0px rgba(150, 150, 150, 1) !important;
+    transition: all 0.6s ease;
+    border-radius: 15px;
 }
 
 /* .groupCard > p {
     text-align: center;
 } */
 
-/* idol group buttons */
-img {
-    border: 3px solid #4e4e4e;
-    box-shadow: 0px 0px 27.5px 0px rgba(150, 150, 150, 1) !important;
-    transition: all 0.6s ease;
-    border-radius: 15px;
-}
 
 #muse {
     grid-area: 2 / 1 / 3 / 2;
@@ -137,30 +134,11 @@ img {
     .groupCard > img {
         text-align: center;
     }
-    .info {
-
-    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 /* @media only screen and (min-width: 1200px) {...} */
-
-.grid {
-    display: grid;
-    /* grid-template-columns: repeat(4, 25%); */
-    grid-column-gap: 10px;
-    /* This will result on four columns, each one of 1fr */
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    /* This will result on two rows, each one of 300px */
-    grid-template-rows: 1fr 1fr 1fr 1fr;
-}
-
-.element {
-    /* this is the same as grid-template-columns: 1fr 1fr 1fr 1fr; */
-    grid-template-columns: repeat(4, 1fr);
-    /* this is the same as grid-template-rows: 300px 300px; */
-    grid-template-rows: repeat(2, 300px);
-}
+    
 
 .info { 
     visibility: visible;
