@@ -5,12 +5,6 @@ dataSet[dataSetVersion].options = [];
 
 dataSet[dataSetVersion].characterData = [
     [{
-            "nameKanji": "After The Rain",
-            "name": "After The Rain",
-            "img": "CzwX6Fl.jpg",
-            "song": "src/songs/Aqours/After The Rain.mp3"
-        },
-        {
             "nameKanji": "Amazing Travel DNA",
             "name": "Amazing Travel DNA",
             "img": "BovbWxg.jpg",
@@ -81,12 +75,6 @@ dataSet[dataSetVersion].characterData = [
             "name": "Daydream Warrior",
             "img": "PBqkBUP.jpg",
             "song": "src/songs/Aqours/Daydream Warrior.mp3"
-        },
-        {
-            "nameKanji": "Dazzling White Town",
-            "name": "Dazzling White Town",
-            "img": "CzwX6Fl.jpg",
-            "song": "src/songs/Aqours/Dazzling White Town.mp3"
         },
         {
             "nameKanji": "Deep Resonance",
@@ -189,12 +177,6 @@ dataSet[dataSetVersion].characterData = [
             "name": "Landing action Yeah!!",
             "img": "4smY1Bq.jpg",
             "song": "src/songs/Aqours/Landing action Yeah!!.mp3"
-        },
-        {
-            "nameKanji": "Lonely Snow Planet",
-            "name": "Lonely Snow Planet",
-            "img": "CzwX6Fl.jpg",
-            "song": "src/songs/Aqours/Lonely Snow Planet.mp3"
         },
         {
             "nameKanji": "LONELY TUNING",
