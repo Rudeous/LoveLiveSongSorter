@@ -13,7 +13,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Aqours Pirates Desire",
             "name": "Aqours Pirates Desire",
-            "img": "4VqYBTQ.jpg",
+            "img": "2q1cAO1.png",
             "song": "src/songs/Aqours/Aqours Pirates Desire.mp3"
         },
         {
@@ -37,7 +37,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Believe again",
             "name": "Believe again",
-            "img": "PkrxsQF.jpg",
+            "img": "vixFnY1.png",
             "song": "src/songs/Aqours/Believe again.mp3"
         },
         {
@@ -49,7 +49,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Brightest Melody",
             "name": "Brightest Melody",
-            "img": "PkrxsQF.jpg",
+            "img": "vixFnY1.png",
             "song": "src/songs/Aqours/Brightest Melody.mp3"
         },
         {
@@ -73,7 +73,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Daydream Warrior",
             "name": "Daydream Warrior",
-            "img": "PBqkBUP.jpg",
+            "img": "gRWyvee.png",
             "song": "src/songs/Aqours/Daydream Warrior.mp3"
         },
         {
@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Fantastic Departure!",
             "name": "Fantastic Departure!",
-            "img": "4VqYBTQ.jpg",
+            "img": "2q1cAO1.png",
             "song": "src/songs/Aqours/Fantastic Departure!.mp3"
         },
         {
@@ -109,7 +109,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Guilty Night, Guilty Kiss!",
             "name": "Guilty Night, Guilty Kiss!",
-            "img": "PTQ6bFt.jpg",
+            "img": "6qLxVgL.png",
             "song": "src/songs/Aqours/Guilty Night, Guilty Kiss!.mp3"
         },
         {
@@ -121,7 +121,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "G線上のシンデレラ",
             "name": "G Senjou no Cinderella",
-            "img": "I5g6dSU.jpg",
+            "img": "YVgZuXz.png",
             "song": "src/songs/Aqours/G線上のシンデレラ.mp3"
         },
         {
@@ -133,19 +133,19 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Hop？Stop？Nonstop!",
             "name": "Hop? Stop? Nonstop!",
-            "img": "VOE4yYo.jpg",
+            "img": "mcGh8Wl.png",
             "song": "src/songs/Aqours/Hop？Stop？Nonstop!.mp3"
         },
         {
             "nameKanji": "i-n-g, I TRY!!",
             "name": "i-n-g, I TRY!!",
-            "img": "Wi9wdlU.jpg",
+            "img": "MgXvUqn.png",
             "song": "src/songs/Aqours/i-n-g, I TRY!!.mp3"
         },
         {
             "nameKanji": "in this unstable world",
             "name": "in this unstable world",
-            "img": "ZHjnB0f.png",
+            "img": "0tapeeZ.png",
             "song": "src/songs/Aqours/in this unstable world.mp3"
         },
         {
@@ -157,7 +157,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "JIMO-AI Dash!",
             "name": "JIMO-AI Dash!",
-            "img": "k6Z76Kq.jpg",
+            "img": "DMdkMtT.png",
             "song": "src/songs/Aqours/JIMO-AI Dash!.mp3"
         },
         {
@@ -169,19 +169,19 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "KOKORO Magic “A to Z”",
             "name": "KOKORO Magic “A to Z”",
-            "img": "zOMVGhd.jpg",
+            "img": "CpGmxnB.png",
             "song": "src/songs/Aqours/KOKORO Magic “A to Z”.mp3"
         },
         {
             "nameKanji": "Landing action Yeah!!",
             "name": "Landing action Yeah!!",
-            "img": "4smY1Bq.jpg",
+            "img": "pIBs4c2.png",
             "song": "src/songs/Aqours/Landing action Yeah!!.mp3"
         },
         {
             "nameKanji": "LONELY TUNING",
             "name": "LONELY TUNING",
-            "img": "h4AJ34N.jpg",
+            "img": "LVjhupM.png",
             "song": "src/songs/Aqours/LONELY TUNING.mp3"
         },
         {
@@ -217,7 +217,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Never giving up!",
             "name": "Never giving up!",
-            "img": "wB9owvd.jpg",
+            "img": "rhjh1tu.png",
             "song": "src/songs/Aqours/Never giving up!.mp3"
         },
         {
@@ -235,13 +235,13 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Next SPARKLING!!",
             "name": "Next SPARKLING!!",
-            "img": "jJzKrzi.jpg",
+            "img": "3WEsKw1.png",
             "song": "src/songs/Aqours/Next SPARKLING!!.mp3"
         },
         {
             "nameKanji": "No.10",
             "name": "No.10",
-            "img": "2YTGGZ4.jpg",
+            "img": "n3aOpwh.png",
             "song": "src/songs/Aqours/No.10.mp3"
         },
         {
@@ -253,7 +253,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Over The Next Rainbow",
             "name": "Over The Next Rainbow",
-            "img": "PkrxsQF.jpg",
+            "img": "vixFnY1.png",
             "song": "src/songs/Aqours/Over The Next Rainbow.mp3"
         },
         {
@@ -271,7 +271,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Pianoforte Monologue",
             "name": "Pianoforte Monologue",
-            "img": "N0O79wA.jpg",
+            "img": "sf4k9J3.png",
             "song": "src/songs/Aqours/Pianoforte Monologue.mp3"
         },
         {
@@ -283,19 +283,19 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "PURE PHRASE",
             "name": "PURE PHRASE",
-            "img": "N0O79wA.jpg",
+            "img": "jlg4DNk.png",
             "song": "src/songs/Aqours/PURE PHRASE.mp3"
         },
         {
             "nameKanji": "RED GEM WINK",
             "name": "RED GEM WINK",
-            "img": "9MCN9Ew.jpg",
+            "img": "JrQveXa.png",
             "song": "src/songs/Aqours/RED GEM WINK.mp3"
         },
         {
             "nameKanji": "Shadow gate to love",
             "name": "Shadow gate to love",
-            "img": "0kA1AOB.png",
+            "img": "Uzudd8n.png",
             "song": "src/songs/Aqours/Shadow gate to love.mp3"
         },
         {
@@ -313,19 +313,19 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "Strawberry Trapper",
             "name": "Strawberry Trapper",
-            "img": "PTQ6bFt.jpg",
+            "img": "6qLxVgL.png",
             "song": "src/songs/Aqours/Strawberry Trapper.mp3"
         },
         {
             "nameKanji": "Thank you, FRIENDS!!",
             "name": "Thank you, FRIENDS!!",
-            "img": "2YTGGZ4.jpg",
+            "img": "n3aOpwh.png",
             "song": "src/songs/Aqours/Thank you, FRIENDS!!.mp3"
         },
         {
             "nameKanji": "Wake up, Challenger!!",
             "name": "Wake up, Challenger!!",
-            "img": "zOMVGhd.jpg",
+            "img": "CpGmxnB.png",
             "song": "src/songs/Aqours/Wake up, Challenger!!.mp3"
         },
         {
@@ -343,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "WHITE FIRST LOVE",
             "name": "WHITE FIRST LOVE",
-            "img": "9MCN9Ew.jpg",
+            "img": "8AnheHL.png",
             "song": "src/songs/Aqours/WHITE FIRST LOVE.mp3"
         },
         {
@@ -385,7 +385,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "コットンキャンディえいえいおー!",
             "name": "Cotton Candy Ei-Ei-Oh!",
-            "img": "188ioIL.jpg",
+            "img": "HXMiixx.png",
             "song": "src/songs/Aqours/コットンキャンディえいえいおー!.mp3"
         },
         {
@@ -397,7 +397,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "コワレヤスキ",
             "name": "Kowareyasuki",
-            "img": "0kA1AOB.png",
+            "img": "Uzudd8n.png",
             "song": "src/songs/Aqours/コワレヤスキ.mp3"
         },
         {
@@ -415,7 +415,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "シャゼリア☆キッス☆ダダンダーン",
             "name": "CYaZALEA☆Kiss☆DADANDAAAN",
-            "img": "6ugLuPr.png",
+            "img": "bGXwY1Y.png",
             "song": "src/songs/Aqours/シャゼリア☆キッス☆ダダンダーン.mp3"
         },
         {
@@ -427,7 +427,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "スリリング・ワンウェイ",
             "name": "Thrilling・One Way",
-            "img": "LYf0btO.jpg",
+            "img": "TPaOFfH.png",
             "song": "src/songs/Aqours/スリリング・ワンウェイ.mp3"
         },
         {
@@ -445,7 +445,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "ハジマリロード",
             "name": "Hajimari Road",
-            "img": "WqiriMY.jpg",
+            "img": "ViCadDS.png",
             "song": "src/songs/Aqours/ハジマリロード.mp3"
         },
         {
@@ -481,7 +481,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "僕らの走ってきた道は…",
             "name": "Bokura no Hashittekita Michi wa…",
-            "img": "jJzKrzi.jpg",
+            "img": "3WEsKw1.png",
             "song": "src/songs/Aqours/僕らの走ってきた道は….mp3"
         },
         {
@@ -649,7 +649,7 @@ dataSet[dataSetVersion].characterData = [
         {
             "nameKanji": "逃走迷走メビウスループ",
             "name": "Tousou Meisou Mobius Loop",
-            "img": "VOE4yYo.jpg",
+            "img": "mcGh8Wl.png",
             "song": "src/songs/Aqours/逃走迷走メビウスループ.mp3"
         },
         {
