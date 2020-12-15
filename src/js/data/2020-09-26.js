@@ -1616,7 +1616,7 @@ dataSet[dataSetVersion].characterData = [
         },
         {
             "nameKanji": "声繋ごうよ",
-            "name": "Koe Tsunagu yo",
+            "name": "Koe Tsunagou yo",
             "img": "s3AYrbn.png",
             "song": "src/songs/nijigaku/声繋ごうよ.mp3"
         },
