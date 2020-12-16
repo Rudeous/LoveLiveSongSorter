@@ -1,4 +1,4 @@
-dataSetVersion = "2020-09-26"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2020-12-15"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [];
@@ -1649,6 +1649,96 @@ dataSet[dataSetVersion].characterData = [
             "name": "Kaika Sengen",
             "img": "s3AYrbn.png",
             "song": "src/songs/nijigaku/開花宣言.mp3"
+        },
+        {
+            "nameKanji": "無敵級＊ビリーバー",
+            "name": "Muteki-kyuu*Believer",
+            "img": "LCLlV63.png",
+            "song": "src/songs/nijigaku/無敵級＊ビリーバー.mp3"
+        },
+        {
+            "nameKanji": "未来ハーモニー",
+            "name": "Mirai Harmony",
+            "img": "rqIihkW.png",
+            "song": "src/songs/nijigaku/未来ハーモニー.mp3"
+        },
+        {
+            "nameKanji": "虹色Passions!",
+            "name": "Nijiiro Passions!",
+            "img": "qO5gRm4.png",
+            "song": "src/songs/nijigaku/虹色Passions!.mp3"
+        },
+        {
+            "nameKanji": "Sweet Eyes",
+            "name": "Sweet Eyes",
+            "img": "qO5gRm4.png",
+            "song": "src/songs/nijigaku/Sweet Eyes.mp3"
+        },
+        {
+            "nameKanji": "NEO SKY, NEO MAP!",
+            "name": "NEO SKY, NEO MAP!",
+            "img": "tQRSkUP.png",
+            "song": "src/songs/nijigaku/NEO SKY, NEO MAP!.mp3"
+        },
+        {
+            "nameKanji": "全速ドリーマー",
+            "name": "Zensoku Dreamer",
+            "img": "tQRSkUP.png",
+            "song": "src/songs/nijigaku/全速ドリーマー.mp3"
+        },
+        {
+            "nameKanji": "Dream with You",
+            "name": "Dream with You",
+            "img": "mr82Qr5.png",
+            "song": "src/songs/nijigaku/Dream with You.mp3"
+        },
+        {
+            "nameKanji": "Poppin' Up!",
+            "name": "Poppin' Up!",
+            "img": "LL83O73.png",
+            "song": "src/songs/nijigaku/Poppin' Up!.mp3"
+        },
+        {
+            "nameKanji": "DIVE!",
+            "name": "DIVE!",
+            "img": "3x2NExp.png",
+            "song": "src/songs/nijigaku/DIVE!.mp3"
+        },
+        {
+            "nameKanji": "サイコーハート",
+            "name": "Saikou Heart",
+            "img": "3V8wcOe.png",
+            "song": "src/songs/nijigaku/サイコーハート.mp3"
+        },
+        {
+            "nameKanji": "La Bella Patria",
+            "name": "La Bella Patria",
+            "img": "zLZhmGR.png",
+            "song": "src/songs/nijigaku/La Bella Patria.mp3"
+        },
+        {
+            "nameKanji": "ツナガルコネクト",
+            "name": "Tsunagaru Connect",
+            "img": "bYmJRDr.png",
+            "song": "src/songs/nijigaku/ツナガルコネクト.mp3"
+        },
+        {
+            "nameKanji": "Butterfly",
+            "name": "Butterfly",
+            "img": "mb30gLu.png",
+            "song": "src/songs/nijigaku/Butterfly.mp3"
+        },
+        {
+            "nameKanji": "Solitude Rain",
+            "name": "Solitude Rain",
+            "img": "EXgADeo.png",
+            "song": "src/songs/nijigaku/Solitude Rain.mp3"
+        },
+        {
+            "nameKanji": "VIVID WORLD",
+            "name": "VIVID WORLD",
+            "img": "Faa3rN9.png",
+            "song": "src/songs/nijigaku/VIVID WORLD.mp3"
         }
     ]
 ]

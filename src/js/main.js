@@ -218,6 +218,8 @@ function selectNijigaku() {
     document.querySelector('#muse').onclick = null; //diable all buttons after selecting
     document.querySelector('#aqours').onclick = null; 
     document.querySelector('#nijigaku').onclick = null; 
+    // console.log(currentVersion);
+    // console.log(dataSet);
     //document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
     //document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
     characterData = dataSet[currentVersion].characterData[2]; //select nijigaku data set
