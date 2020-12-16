@@ -186,6 +186,9 @@ function selectMuse() {
     //console.log("success");
     document.querySelector('.left.sort.image').src = "src/assets/museL.png"; // change left and right images of start page to muse ones
     document.querySelector('.right.sort.image').src = "src/assets/museR.jpg";
+    document.querySelector('#muse').onclick = null; //diable all buttons after selecting
+    document.querySelector('#aqours').onclick = null; 
+    document.querySelector('#nijigaku').onclick = null; 
     //document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
     //document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
     characterData = dataSet[currentVersion].characterData[1]; //select muse data set
@@ -199,6 +202,9 @@ function selectAqours() {
     //console.log("success");
     document.querySelector('.left.sort.image').src = "src/assets/defaultL.png"; // change left and right images of start page to aqours ones
     document.querySelector('.right.sort.image').src = "src/assets/DefaultR.png";
+    document.querySelector('#muse').onclick = null; //diable all buttons after selecting
+    document.querySelector('#aqours').onclick = null; 
+    document.querySelector('#nijigaku').onclick = null; 
     //document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
     //document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
     characterData = dataSet[currentVersion].characterData[0]; //select muse data set
@@ -209,6 +215,9 @@ function selectNijigaku() {
     //console.log("success");
     document.querySelector('.left.sort.image').src = "src/assets/nijigakuL.png"; // change left and right images of start page to nijigaku ones
     document.querySelector('.right.sort.image').src = "src/assets/nijigakuR.jpg";
+    document.querySelector('#muse').onclick = null; //diable all buttons after selecting
+    document.querySelector('#aqours').onclick = null; 
+    document.querySelector('#nijigaku').onclick = null; 
     //document.querySelector('#overlayPage').style.display = 'none'; // hide overlay selection page
     //document.querySelector('#mainContainer').style.visibility = 'visible'; // show sorting page 
     characterData = dataSet[currentVersion].characterData[2]; //select nijigaku data set
